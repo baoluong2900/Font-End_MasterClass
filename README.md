@@ -89,6 +89,52 @@ HTML was developed by Tim Berners Lee in 1991
 - ol
 - li
 
+#### 3.6 Resource Tags
+- link
+- script
+#### 3.7 Text Formatting Tags
+- b
+- i
+- u
+- sup
+- sub
+- br
+- em
+- hl … h6
+- p
+- pre
+- strong
+#### 3.8 Media Tags
+- img
+- audio
+- video
+- source
+- area
+- canvas
+- svg
+- embed
+- figure
+- figcaption
+- map
+- picture
+- track
+#### 3.9 Form Tags
+- form
+- input
+- textarea
+- select
+- option
+- optgroup
+- label
+- button
+- fieldset
+- legend
+- datalist
+- output
+#### 3.10 Link & Frames Tags
+- a
+- iframe
+
 # CSS
 
 ### 1. What is CSS
