@@ -33,61 +33,61 @@ HTML was developed by Tim Berners Lee in 1991
 
 #### 3.1 Definition
 
-- "<html>"
-- "<head>"
-- "<title>"
-- "<body>"
-- "<!DOCTYPE>"
-- "<meta>"
-- "<style>"
+- html
+- head
+- title
+- body
+- !DOCTYPE
+- meta
+- style
 
 #### 3.2 Table Tags
 
-- "<table>"
-- "<tr>"
-- "<th>"
-- "<td>"
-- "<caption>"
-- "<thread>"
-- "<tbody>"
-- "<tfoot>"
+- table
+- tr
+- th
+- td
+- caption
+- thread
+- tbody
+- tfoot
 
 #### 3.3 General Tags
 
-- "<blockquote>"
-- "<abbr>"
-- "<code>"
-- "<ins>"
-- "<del>"
-- "<details>"
-- "<summary>"
-- "<dialog>"
-- "<kbd>"
-- "<mark>"
-- "<meter>"
-- "<progress>"
-- "<hr>"
-- "<time>"
+- blockquote
+- abbr
+- code
+- ins
+- del
+- details
+- summary
+- dialog
+- kbd
+- mark
+- meter
+- progress
+- hr
+- time
 
 #### 3.4 Semantic Tags
 
-- "<div>"
-- "<article>"
-- "<aside>"
-- "<header>"
-- "<footer>"
-- "<nav>"
-- "<section>"
-- "<span>"
+- div
+- article
+- aside
+- header
+- footer
+- nav
+- section
+- span
 
 #### 3.5 List Tags
 
-- "<dl>"
-- "<dd>"
-- "<dt>"
-- "<ul>"
-- "<ol>"
-- "<li>"
+- dl
+- dd
+- dt
+- ul
+- ol
+- li
 
 # CSS
 
