@@ -33,61 +33,61 @@ HTML was developed by Tim Berners Lee in 1991
 
 #### 3.1 Definition
 
-- '<html>'
-- <head>
-- <title>
-- <body>
-- <!DOCTYPE>
-- <meta>
-- <style>
+- This is <html>
+- This is <head>
+- This is <title>
+- This is <body>
+- This is <!DOCTYPE>
+- This is <meta>
+- This is <style>
 
 #### 3.2 Table Tags
 
-- <table>
-- <tr>
-- <th>
-- <td>
-- <caption>
-- <thread>
-- <tbody>
-- <tfoot>
+- This is <table>
+- This is <tr>
+- This is <th>
+- This is <td>
+- This is <caption>
+- This is <thread>
+- This is <tbody>
+- This is <tfoot>
 
 #### 3.3 General Tags
 
-- <blockquote>
-- <abbr>
-- <code>
-- <ins>
-- <del>
-- <details>
-- <summary>
-- <dialog>
-- <kbd>
-- <mark>
-- <meter>
-- <progress>
-- <hr>
-- <time>
+- This is <blockquote>
+- This is <abbr>
+- This is <code>
+- This is <ins>
+- This is <del>
+- This is <details>
+- This is <summary>
+- This is <dialog>
+- This is <kbd>
+- This is <mark>
+- This is <meter>
+- This is <progress>
+- This is <hr>
+- This is <time>
 
 #### 3.4 Semantic Tags
 
-- <div>
-- <article>
-- <aside>
-- <header>
-- <footer>
-- <nav>
-- <section>
-- <span>
+- This is <div>
+- This is <article>
+- This is <aside>
+- This is <header>
+- This is <footer>
+- This is <nav>
+- This is <section>
+- This is <span>
 
 #### 3.5 List Tags
 
-- <dl>
-- <dd>
-- <dt>
-- <ul>
-- <ol>
-- <li>
+- This is <dl>
+- This is <dd>
+- This is <dt>
+- This is <ul>
+- This is <ol>
+- This is <li>
 
 # CSS
 
