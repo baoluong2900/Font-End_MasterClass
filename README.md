@@ -100,7 +100,7 @@ HTML was developed by Tim Berners Lee in 1991
 - sub
 - br
 - em
-- hl … h6
+- h1 … h6
 - p
 - pre
 - strong
